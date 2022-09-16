@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshimasaini&label=Profile%20views&color=0e75b6&style=flat" alt="anshimasaini" /> </p>
 
-- 🔭 I’m currently working on **Graphics**
+- 🔭 I’m currently working on **UI/UX And Graphics**
 
 - 🌱 I’m currently learning **Java**
 
 - 🤝 I’m looking for help with **Coding**
 
-- 💬 Ask me about **Java, C**
+- 💬 Ask me about **Web Designing**
 
 - 📫 How to reach me **sainianshima@gmail.com**
 
